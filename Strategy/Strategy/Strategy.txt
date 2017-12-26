@@ -10,5 +10,3 @@ Sometimes inheritance for entities is determined differently based on the classi
 Strategy pattern -> Move behaviour implementation from base class to a concrete strategy class inheriting from an interface.
 
 
-
-
